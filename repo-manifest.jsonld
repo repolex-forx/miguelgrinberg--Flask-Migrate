@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/Flask-Migrate/commit/bce4d35a0c61d2516c76744a1f168bc6af26d55e",
       "git:hexsha": "bce4d35a0c61d2516c76744a1f168bc6af26d55e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T20:19:08.670530+00:00"
     },
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/Flask-Migrate/commit/5006924b58add63d51fbbcab6ab21fc8abc153a8",
